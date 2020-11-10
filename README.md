@@ -1,7 +1,9 @@
 # Weather-Analysis
 ## Analysis of government weather (NOAA) databases in an attempt to master python libraries and functions
 
-KEY OBJECTIVES :
+#### My primary objective was to practice automated python scripts and user-defined functions in order to simplify data cleaning and wrangling tasks.
+
+KEY OBJECTIVES -
 1. Used standard libraries for statistical analyses of factors such as temperature, rainfall, wind, etc.
 2. Treatment of missing values - Substitution and Interpolation.
 3. Created custom functions to extract arrays of necessary parameters using NumPy
