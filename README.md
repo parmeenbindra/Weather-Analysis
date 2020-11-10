@@ -3,10 +3,11 @@
 
 #### My primary objective was to practice automated python scripts and user-defined functions in order to simplify data cleaning and wrangling tasks.
 
-KEY OBJECTIVES -
+SUMMARY  -
+
 1. Used standard libraries for statistical analyses of factors such as temperature, rainfall, wind, etc.
 2. Treatment of missing values - Substitution and Interpolation.
-3. Created custom functions to extract arrays of necessary parameters using NumPy
+3. Created custom functions to extract arrays of necessary parameters using NumPy.
 4. Created plots, charts, maps and visualizations.
 5. Created custom function to perform exponential smoothing.
 
