@@ -1,4 +1,4 @@
-# Weather-Analysis
+# Weather Analysis - Python, NumPy
 ## Analysis of government weather (NOAA) databases in an attempt to master python libraries and functions
 
 #### My primary objective was to practice automated python scripts and user-defined functions in order to simplify data cleaning and wrangling tasks.
